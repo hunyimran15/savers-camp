@@ -1,0 +1,10 @@
+{
+  "name": "SAVERS Village Camp Registration",
+  "short_name": "SAVERS Camp",
+  "description": "Village animal treatment camp registration system",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef4f9",
+  "theme_color": "#226192"
+}
